@@ -1,3 +1,3 @@
 # Project1
 
-Hi, welkom op mijn website!
+Hi, welkom op mijn pagina!
